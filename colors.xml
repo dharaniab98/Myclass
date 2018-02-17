@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_background">#FFF7DA</color>
+    <color name="category_timetable">#FD8E09</color>
+    <color name="category_faculty">#379237</color>
+    <color name="category_syllabus">#8800A0</color>
+    <color name="category_material">#9901a0</color>
+    <color name="color_onerc">#67aded</color>
+    <color name="color_sub1">#d8bfe3</color>
+    <color name="color_sub2">#c9e0df</color>
+    <color name="color_sub3">#dfe1cf</color>
+    <color name="color_sub4">#d2dfdd</color>
+    <color name="color_sub5">#cde7fc</color>
+    <color name="color_sub6">#d3c5db</color>
+    <color name="color_lab">#e3c0cc</color>
+</resources>

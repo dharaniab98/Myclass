@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Class</string>
+    <string name="category_timeTable">TIMETABLE</string>
+    <string name="category_faculty">FACULTY</string>
+    <string name="category_syllabus">SYLLABUS</string>
+    <string name="category_material">MATERIAL</string>
+    <string name="category_sub1">M.E.P.C</string>
+    <string name="category_sub2">D.W.M></string>
+    <string name="category_sub3">WEBPRO</string>
+    <string name="category_sub4">D.A.A</string>
+    <string name="category_sub5">O.O.A.D</string>
+    <string name="category_sub6">OPEN</string>
+    <string name="category_lab1">WEBPRO</string>
+    <string name="category_lab2">OOAD.DM</string>
+</resources>
